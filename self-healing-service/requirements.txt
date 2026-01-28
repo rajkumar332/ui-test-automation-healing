@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+python-dotenv
+requests
+
+# LLM Providers (install all, used only if selected)
+openai
+google-generativeai
+anthropic
